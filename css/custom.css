@@ -2,6 +2,10 @@ fieldset {
   border: none;
 }
 
+body {
+	background-color: #ff00e4 !important;
+}
+
 .margin-top-10 {
 	margin-top: 10px;
 }
