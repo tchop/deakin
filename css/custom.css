@@ -49,6 +49,6 @@ fieldset {
 	min-height: 400px;
 }
 
-.navbar navbar-inverse navbar-fixed-top {
+.navbar .navbar-inverse .navbar-fixed-top {
 	background-color: #000 !important;
 }
