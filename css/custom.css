@@ -49,3 +49,7 @@ fieldset {
 	min-height: 400px;
 }
 
+#navbar {
+	color: #000 !important;
+}
+}
